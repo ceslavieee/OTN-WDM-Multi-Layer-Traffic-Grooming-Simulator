@@ -1,5 +1,3 @@
-、# OTN-WDM Multi-Layer Traffic Grooming Simulator
-
 ## Project Overview
 This repository contains a Python-based simulation environment designed to solve the **Optimal Intermediate Grooming Point** problem in optical networks. Traffic grooming allows for the transmission of multiple low-rate services (10G/100G) using a single high-capacity optical lightpath, which saves spectrum and reduces the number of costly optical transponders.
 
